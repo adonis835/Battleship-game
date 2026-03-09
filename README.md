@@ -19,6 +19,7 @@
 - C# (.NET)
 - Windows Forms
 - SQLite
+- Visual Studio
 - ## How to Run
 1. Clone the repository:
    git clone https://github.com/yourusername/battleship-game.git
