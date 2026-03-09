@@ -8,3 +8,20 @@
 4. Hits are marked with a red X, misses with a green dash.
 5. The enemy attacks randomly after your turn.
 6. Sink all enemy ships to win!
+## Features
+- GUI built with Windows Forms
+- Turn-based gameplay
+- Randomized enemy attacks
+- Ship placement with collision detection
+- Player statistics saved in SQLite database
+- Timer for tracking game duration
+- ## Technologies
+- C# (.NET)
+- Windows Forms
+- SQLite
+- ## How to Run
+1. Clone the repository:
+   git clone https://github.com/yourusername/battleship-game.git
+2. Open the solution in Visual Studio.
+3. Build and run the project.
+4. Start playing!
