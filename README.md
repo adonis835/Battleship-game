@@ -1,8 +1,11 @@
 # Battleship Game
+ ![Gameplay Screenshot](Gameplay.png)
  A desktop implementation of the classic Battleship game using C#. 
  Features interactive gameplay with a GUI built in Windows Forms and player statistics saved in SQLite.
  Challenge a randomized AI, track your victory stats, and see if you can sink the enemy ships before yours are destroyed!
- ![Gameplay Screenshot](Gameplay.png)
+## About The Project
+This project is my take on the classic Battleship game. I created it to practice C# programming, GUI development, and working with databases.  
+It demonstrates object-oriented programming and simple AI logic.
 ## How to Play
 1. Enter your name and click "Start".
 2. A 10x10 grid will appear for your ships and the enemy's grid.
@@ -17,12 +20,15 @@
 - Ship placement with collision detection
 - Player statistics saved in SQLite database
 - Timer for tracking game duration
-- ## Technologies
+### Prerequisites
+- Any C# IDE that supports WinForms (e.g., Visual Studio, Rider, VS Code with C# extension)  
+- .NET runtime installed
+ ## Technologies
 - C# (.NET)
 - Windows Forms
 - SQLite
 - Visual Studio
-- ## How to Run
+## Installation
 1. Clone the repository
 2. Open the solution in Visual Studio.
 3. Build and run the project.
