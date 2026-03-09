@@ -2,6 +2,7 @@
  A desktop implementation of the classic Battleship game using C#. 
  Features interactive gameplay with a GUI built in Windows Forms and player statistics saved in SQLite.
  Challenge a randomized AI, track your victory stats, and see if you can sink the enemy ships before yours are destroyed!
+ ![Gameplay Screenshot](Gameplay.png)
 ## How to Play
 1. Enter your name and click "Start".
 2. A 10x10 grid will appear for your ships and the enemy's grid.
